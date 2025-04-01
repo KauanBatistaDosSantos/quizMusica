@@ -1,0 +1,239 @@
+[00:10.90] If you weren't _____ with it
+options: born, torn, sworn
+answer: born
+
+[00:13.15] You can buy a couple _____
+options: ornaments, instruments, elements
+answer: ornaments
+
+[00:16.04] Just be sure to read the _____, kids
+options: warning, morning, yearning
+answer: warning
+
+[00:18.52] 'Cause pretty soon you'll be _____ of it (Haha)
+options: bored, sword, ignored
+answer: bored
+
+[00:22.64] _____
+options: Sexual, Textual, Perpetual
+answer: Sexual
+
+[00:23.86] Hey, girl, if you wanna feel _____
+options: sexual, textual, intellectual
+answer: sexual
+
+[00:26.45] You can always call up a _____
+options: professional, confessional, congressional
+answer: professional
+
+[00:29.25] They stick pins in you, like a _____ (Haha)
+options: vegetable, edible, incredible
+answer: vegetable
+
+[00:34.00] Kids _____, kids _____
+options: forever, never, clever
+answer: forever
+
+[00:36.77] Baby, soft skin turns into _____
+options: leather, feather, tether
+answer: leather
+
+[00:39.50] Don't be dramatic, it's only some _____
+options: plastic, drastic, fantastic
+answer: plastic
+
+[00:42.39] No one will love you if you're _____
+options: unattractive, proactive, reactive
+answer: unattractive
+
+[00:45.46] Oh, Mrs. Potato Head, _____ me
+options: tell, sell, yell
+answer: tell
+
+[00:48.28] Is it true that pain is _____?
+options: beauty, duty, cutie
+answer: beauty
+
+[00:51.07] Does a new face come with a _____?
+options: warranty, guarantee, clarity
+answer: warranty
+
+[00:54.12] Will a pretty face make it _____?
+options: better, letter, setter
+answer: better
+
+[00:57.02] Oh, Mr. Potato Head, _____ me
+options: tell, smell, yell
+answer: tell
+
+[00:59.77] How did you afford her _____?
+options: surgery, luxury, perjury
+answer: surgery
+
+[01:02.46] Do you swear you'll stay _____?
+options: forever, never, whenever
+answer: forever
+
+[01:04.94] Even if her face don't stay _____?
+options: together, whether, feather
+answer: together
+
+[01:17.82] If you want a little more _____
+options: confidence, prominence, dominance
+answer: confidence
+
+[01:20.16] Potatoes turn to french fries, yeah, it's common _____
+options: sense, tense, defense
+answer: sense
+
+[01:23.28] All you need's a couple more _____
+options: condiments, arguments, instruments
+answer: condiments
+
+[01:25.76] And a 100 thousand dollars for some _____ (Haha)
+options: compliments, supplements, increments
+answer: compliments
+
+[01:30.15] It's such a _____
+options: waste, taste, haste
+answer: waste
+
+[01:31.53] When little girls grow into their mother's _____
+options: face, place, grace
+answer: face
+
+[01:34.34] But little girls are learnin' how to cut and _____
+options: paste, waste, taste
+answer: paste
+
+[01:37.20] And pucker up their lips until they _____ (Haha)
+options: suffocate, hesitate, decorate
+answer: suffocate
+
+[01:41.78] Kids _____, kids _____
+options: forever, never, endeavor
+answer: forever
+
+[01:44.54] Baby, soft skin turns into _____
+options: leather, feather, together
+answer: leather
+
+[01:47.29] Don't be dramatic, it's only some _____
+options: plastic, drastic, elastic
+answer: plastic
+
+[01:50.13] No one will love you if you're _____
+options: unattractive, radioactive, proactive
+answer: unattractive
+
+[01:53.38] Oh, Mrs. Potato Head, _____ me
+options: tell, sell, dwell
+answer: tell
+
+[01:56.21] Is it true that pain is _____?
+options: beauty, duty, cruelty
+answer: beauty
+
+[01:59.06] Does a new face come with a _____?
+options: warranty, charity, clarity
+answer: warranty
+
+[02:01.95] Will a pretty face make it _____?
+options: better, sweater, shutter
+answer: better
+
+[02:04.46] Oh, Mr. Potato Head, _____ me
+options: tell, dwell, sell
+answer: tell
+
+[02:07.62] How did you afford her _____?
+options: surgery, perjury, flattery
+answer: surgery
+
+[02:10.16] Do you swear you'll stay _____?
+options: forever, never, endeavor
+answer: forever
+
+[02:12.73] Even if her face don't stay _____?
+options: together, weather, feather
+answer: together
+
+[02:15.63] Stay _____, stay _____
+options: forever, never, however
+answer: forever
+
+[02:18.34] Even if her face don't stay _____
+options: together, feather, weather
+answer: together
+
+[02:21.10] Stay _____, stay _____
+options: forever, clever, never
+answer: forever
+
+[02:24.00] Even if her face don't stay _____
+options: together, leather, feather
+answer: together
+
+[02:38.72] Oh, Mrs. Potato Head, _____ me
+options: tell, sell, well
+answer: tell
+
+[02:41.22] Is it true that pain is _____?
+options: beauty, cutie, duty
+answer: beauty
+
+[02:44.13] Does a new face come with a _____?
+options: warranty, guarantee, clarity
+answer: warranty
+
+[02:46.99] Will a pretty face make it _____?
+options: better, sweater, letter
+answer: better
+
+[02:49.88] Oh, Mr. Potato Head, _____ me
+options: tell, sell, smell
+answer: tell
+
+[02:52.77] How did you afford her _____?
+options: surgery, luxury, perjury
+answer: surgery
+
+[02:55.45] Do you swear you'll stay _____?
+options: forever, endeavor, whatever
+answer: forever
+
+[02:57.90] Even if her face don't stay _____?
+options: together, weather, feather
+answer: together
+
+[03:00.73] Stay _____, stay _____
+options: forever, never, endeavor
+answer: forever
+
+[03:03.44] Even if her face don't stay _____
+options: together, weather, leather
+answer: together
+
+[03:06.36] Stay _____, stay _____
+options: forever, clever, never
+answer: forever
+
+[03:09.19] Even if her face don't stay _____
+options: together, leather, weather
+answer: together
+
+[03:12.08] Stay _____, stay _____
+options: forever, endeavor, never
+answer: forever
+
+[03:14.80] Even if her face don't stay _____
+options: together, feather, leather
+answer: together
+
+[03:17.69] Stay _____, stay _____
+options: forever, never, clever
+answer: forever
+
+[03:20.46] Even if her face don't stay _____
+options: together, leather, feather
+answer: together

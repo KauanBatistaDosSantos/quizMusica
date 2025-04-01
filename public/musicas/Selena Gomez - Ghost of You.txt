@@ -1,0 +1,223 @@
+[00:03.43] Turn my back to the _____
+options: door, floor, more
+answer: door
+
+[00:06.84] Feel so much _____ now
+options: better, letter, setter
+answer: better
+
+[00:09.24] Don't even try _____
+options: anymore, before, explore
+answer: anymore
+
+[00:12.51] Nothing left to _____
+options: lose, choose, bruise
+answer: lose
+
+[00:14.96] There's a voice that's in the _____
+options: air, care, stare
+answer: air
+
+[00:17.59] Saying 'don't look back _____'
+options: nowhere, somewhere, beware
+answer: nowhere
+
+[00:20.56] There's a voice that's always _____
+options: there, where, care
+answer: there
+
+[00:25.49] And I'll never be quite the _____
+options: same, name, game
+answer: same
+
+[00:28.97] As I was _____ this
+options: before, ignore, restore
+answer: before
+
+[00:31.85] Part of you still _____
+options: remains, chains, trains
+answer: remains
+
+[00:34.68] Though it's out of _____
+options: focus, locus, hocus
+answer: focus
+
+[00:37.54] You're just somewhere that I've _____
+options: been, seen, green
+answer: been
+
+[00:40.22] And I won't go back _____
+options: again, then, when
+answer: again
+
+[00:43.12] You're just somewhere that I've _____
+options: been, seen, keen
+answer: been
+
+[00:48.38] I'm breathing in, breathing _____
+options: out, doubt, shout
+answer: out
+
+[00:51.87] Ain't that what it's all _____?
+options: about, shout, doubt
+answer: about
+
+[00:54.44] Living life crazy _____
+options: loud, crowd, cloud
+answer: loud
+
+[00:57.66] Like I have the _____ to
+options: right, fight, sight
+answer: right
+
+[00:59.95] No more words in my _____
+options: mouth, south, drouth
+answer: mouth
+
+[01:02.84] Nothing left to figure _____
+options: out, doubt, clout
+answer: out
+
+[01:06.21] But I don't think I'll ever break _____
+options: through, blue, true
+answer: through
+
+[01:08.96] The ghost of _____
+options: you, blue, too
+answer: you
+
+[01:13.21] And I'll never be like I _____
+options: was, does, buzz
+answer: was
+
+[01:17.17] The day I met _____
+options: you, true, blue
+answer: you
+
+[01:19.74] Too naive, yes I _____
+options: was, buzz, fuzz
+answer: was
+
+[01:22.58] Boy, let's that's why I let you _____
+options: in, win, spin
+answer: in
+
+[01:25.41] Wear your memory like a _____
+options: stain, pain, chain
+answer: stain
+
+[01:28.24] Can't erase or numb the _____
+options: pain, rain, chain
+answer: pain
+
+[01:30.92] Here to stay with me _____
+options: forever, never, clever
+answer: forever
+
+[01:36.51] Breathing in, breathing _____
+options: out, shout, doubt
+answer: out
+
+[01:39.56] Ain't that what it's all _____?
+options: about, doubt, shout
+answer: about
+
+[01:42.36] Living life crazy _____
+options: loud, proud, crowd
+answer: loud
+
+[01:45.65] Like I have the _____ to
+options: right, fight, might
+answer: right
+
+[01:47.91] No more words in my _____
+options: mouth, south, drouth
+answer: mouth
+
+[01:50.97] Nothing left to figure _____
+options: out, doubt, pout
+answer: out
+
+[01:54.12] But I don't think I'll ever break _____
+options: through, blue, true
+answer: through
+
+[01:56.89] The ghost of _____
+options: you, too, zoo
+answer: you
+
+[01:58.83] One of these days, I'll wake up from this bad dream I'm _____
+options: dreaming, screaming, gleaming
+answer: dreaming
+
+[02:04.12] One of these days I pray that I'll be over over over _____
+options: you, too, blue
+answer: you
+
+[02:09.67] One of these days, I'll realize that I'm so tired of feeling _____
+options: confused, abused, bruised
+answer: confused
+
+[02:16.19] But for now there's a reason that you're still here in my _____...
+options: heart, part, start
+answer: heart
+
+[02:26.80] I'm breathing in, breathing _____
+options: out, doubt, shout
+answer: out
+
+[02:30.41] Ain't that what it's all _____?
+options: about, shout, doubt
+answer: about
+
+[02:33.13] Living life crazy _____
+options: loud, crowd, cloud
+answer: loud
+
+[02:36.42] Like I have the _____ to
+options: right, fight, sight
+answer: right
+
+[02:38.90] No more words in my _____
+options: mouth, south, drouth
+answer: mouth
+
+[02:41.79] Nothing left for me to _____
+options: doubt, shout, pout
+answer: doubt
+
+[02:45.16] But I don't think I'll ever break _____
+options: through, true, blue
+answer: through
+
+[02:47.86] The ghost of _____
+options: you, too, zoo
+answer: you
+
+[02:50.34] Breathing in, breathing _____
+options: out, shout, doubt
+answer: out
+
+[02:55.21] Breathing in, breathing _____
+options: out, pout, doubt
+answer: out
+
+[02:59.07] Like I have the _____ to
+options: right, fight, sight
+answer: right
+
+[03:01.51] No more words in my _____
+options: mouth, south, drouth
+answer: mouth
+
+[03:04.32] Nothing left to figure _____
+options: out, shout, doubt
+answer: out
+
+[03:07.74] But I don't think I'll ever break _____
+options: through, blue, true
+answer: through
+
+[03:10.34] The ghost of _____
+options: you, blue, zoo
+answer: you

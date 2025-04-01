@@ -1,0 +1,115 @@
+[00:09.16]I, I just ________ up from a dream
+options: woke, walk, rock
+answer: woke
+
+[00:15.97]But you and I had to say ________
+options: goodbye, hi, lie
+answer: goodbye
+
+[00:20.41]And I don't know what it all ________
+options: means, leans, scenes
+answer: means
+
+[00:24.78]But since I survived, I ________
+options: realized, fantasized, compromised
+answer: realized
+
+[00:29.35]Wherever you go, that's where I'll ________
+options: follow, hollow, swallow
+answer: follow
+
+[00:34.11]Nobody's ________ tomorrow
+options: promised, polished, punished
+answer: promised
+
+[00:38.64]So I'ma love you every night like it's the last ________
+options: night, light, fight
+answer: night
+
+[00:44.87]If the world was ________, I'd wanna be next to you
+options: ending, pending, sending
+answer: ending
+
+[00:53.99]If the party was ________ and our time on Earth was through
+options: over, lover, cover
+answer: over
+
+[01:03.09]I'd wanna ________ you just for a while
+options: hold, told, fold
+answer: hold
+
+[01:07.69]And die with a ________
+options: smile, file, style
+answer: smile
+
+[01:25.08]Oh-ooh, lost, lost in the words that we ________
+options: scream, dream, stream
+answer: scream
+
+[01:33.15]I don't even wanna do this ________
+options: anymore, before, restore
+answer: anymore
+
+[01:37.84]'Cause you already know what you ________ to me
+options: mean, lean, seen
+answer: mean
+
+[01:41.30]And our love's the only one worth ________ for
+options: fighting, writing, lighting
+answer: fighting
+
+[01:56.18]So I'ma love you every night like it's the last ________
+options: night, light, fight
+answer: night
+
+[02:02.32]If the world was ________, I'd wanna be next to you
+options: ending, pending, sending
+answer: ending
+
+[02:11.42]If the party was ________ and our time on Earth was through
+options: over, lover, cover
+answer: over
+
+[02:20.32]I'd wanna ________ you just for a while
+options: hold, told, fold
+answer: hold
+
+[02:25.19]And die with a ________
+options: smile, file, style
+answer: smile
+
+[02:29.67]If the world was ________, I'd wanna be next to you
+options: ending, pending, sending
+answer: ending
+
+[02:38.35]Right next to ________
+options: you, true, new
+answer: you
+
+[02:47.61]Right next to ________
+options: you, new, shoe
+answer: you
+
+[03:10.90]If the world was ________, I'd wanna be next to you
+options: ending, pending, sending
+answer: ending
+
+[03:19.78]If the party was ________ and our time on Earth was through
+options: over, lover, cover
+answer: over
+
+[03:29.26]I'd wanna ________ you just for a while
+options: hold, cold, fold
+answer: hold
+
+[03:33.68]And die with a ________
+options: smile, file, style
+answer: smile
+
+[03:38.24]If the world was ________, I'd wanna be next to you
+options: ending, pending, sending
+answer: ending
+
+[03:47.28]If the world was ________, I'd wanna be next to you
+options: ending, pending, sending
+answer: ending

@@ -1,0 +1,219 @@
+[00:08.86] Now he's thinkin' 'bout me every _____, oh
+options: night, might, fight
+answer: night
+
+[00:12.41] Is it that _____? I guess so
+options: sweet, treat, beat
+answer: sweet
+
+[00:14.54] Say you can't _____, baby, I know
+options: sleep, keep, deep
+answer: sleep
+
+[00:16.82] That's that me _____
+options: espresso, depresso, confesso
+answer: espresso
+
+[00:19.17] Move it up, down, left, _____, oh
+options: right, fight, sight
+answer: right
+
+[00:21.51] Switch it up like _____
+options: Nintendo, crescendo, fandango
+answer: Nintendo
+
+[00:23.85] Say you can't _____, baby, I know
+options: sleep, creep, peep
+answer: sleep
+
+[00:26.18] That's that me _____
+options: espresso, progresso, confesso
+answer: espresso
+
+[00:28.53] I can't relate to _____
+options: desperation, temptation, sensation
+answer: desperation
+
+[00:33.49] My give-a-damns are on _____
+options: vacation, sensation, foundation
+answer: vacation
+
+[00:38.05] And I got this one boy and he won't stop _____
+options: calling, falling, stalling
+answer: calling
+
+[00:42.66] When they act this way, I know I _____
+options: got 'em, shot 'em, rock 'em
+answer: got 'em
+
+[00:46.51] Too bad your ex don't do it for _____
+options: ya, bra, ma
+answer: ya
+
+[00:48.88] Walked in and dream-came-trued it for _____
+options: ya, spa, la
+answer: ya
+
+[00:51.27] Soft skin and I perfumed it for _____ (ha, ha, ha, ha, yes)
+options: ya, da, pa
+answer: ya
+
+[00:56.19] I know I Mountain Dew it for _____ (yes)
+options: ya, va, ta
+answer: ya
+
+[00:58.11] That morning coffee, brewed it for _____ (yes)
+options: ya, fa, ha
+answer: ya
+
+[01:00.50] One touch and I brand-newed it for _____, oh (ha, ha, ha, ha)
+options: ya, ja, ra
+answer: ya
+
+[01:03.82] And now he's thinkin' 'bout me every _____, oh
+options: night, light, fight
+answer: night
+
+[01:07.80] Is it that _____? I guess so
+options: sweet, treat, fleet
+answer: sweet
+
+[01:10.06] Say you can't _____, baby, I know
+options: sleep, beep, deep
+answer: sleep
+
+[01:12.32] That's that me _____
+options: espresso, depresso, confesso
+answer: espresso
+
+[01:14.73] Move it up, down, left, _____, oh
+options: right, tight, height
+answer: right
+
+[01:17.05] Switch it up like _____
+options: Nintendo, crescendo, extendo
+answer: Nintendo
+
+[01:19.31] Say you can't _____, baby, I know
+options: sleep, creep, weep
+answer: sleep
+
+[01:21.41] That's that me _____
+options: espresso, presto, modesto
+answer: espresso
+
+[01:26.04] Is it that _____? I guess so
+options: sweet, beat, meet
+answer: sweet
+
+[01:28.30] I'm working late 'cause I'm a _____
+options: singer, ringer, zinger
+answer: singer
+
+[01:33.24] Oh, he looks so cute wrapped 'round my _____
+options: finger, singer, linger
+answer: finger
+
+[01:37.92] My twisted humor make him laugh so _____
+options: often, soften, coffin
+answer: often
+
+[01:42.57] My honeybee, come and get this _____
+options: pollen, fallen, callin'
+answer: pollen
+
+[01:46.41] Too bad your ex don't do it for _____
+options: ya, bra, ta
+answer: ya
+
+[01:49.03] Walked in and dream-came-trued it for _____
+options: ya, spa, pa
+answer: ya
+
+[01:51.32] Soft skin and I perfumed it for _____, oh (yeah, ha, ha, ha, ha, yes)
+options: ya, la, ma
+answer: ya
+
+[01:55.93] I know I Mountain Dew it for _____ (yes)
+options: ya, va, ha
+answer: ya
+
+[01:58.31] That morning coffee, brewed it for _____ (yes)
+options: ya, ra, fa
+answer: ya
+
+[02:00.64] One touch and I brand-newed it for _____ (stupid)
+options: ya, na, ka
+answer: ya
+
+[02:04.28] Now he's thinkin' 'bout me every _____, oh
+options: night, fight, light
+answer: night
+
+[02:07.80] Is it that _____? I guess so
+options: sweet, fleet, treat
+answer: sweet
+
+[02:10.18] Say you can't _____, baby, I know
+options: sleep, peep, beep
+answer: sleep
+
+[02:12.48] That's that me _____
+options: espresso, presto, confesso
+answer: espresso
+
+[02:14.85] Move it up, down, left, _____, oh
+options: right, light, bite
+answer: right
+
+[02:16.84] Switch it up like _____
+options: Nintendo, crescendo, pretendo
+answer: Nintendo
+
+[02:19.19] Say you can't _____, baby, I know
+options: sleep, deep, jeep
+answer: sleep
+
+[02:21.54] That's that me _____ (yes)
+options: espresso, presto, gesto
+answer: espresso
+
+[02:23.81] Thinkin' 'bout me every _____, oh
+options: night, height, bite
+answer: night
+
+[02:26.19] Is it that _____? I guess so (yes)
+options: sweet, meat, neat
+answer: sweet
+
+[02:28.45] Say you can't _____, baby, I know
+options: sleep, creep, deep
+answer: sleep
+
+[02:30.82] That's that me _____ (yes)
+options: espresso, presto, testo
+answer: espresso
+
+[02:33.13] Move it up, down, left, _____, oh (move it up, down, left, _____, oh)
+options: right, sight, fight
+answer: right
+
+[02:35.45] Switch it up like _____ (yes)
+options: Nintendo, extendo, fandango
+answer: Nintendo
+
+[02:37.78] Say you can't _____, baby, I know
+options: sleep, keep, steep
+answer: sleep
+
+[02:40.04] That's that me _____
+options: espresso, presto, gesto
+answer: espresso
+
+[02:44.68] Is it that _____? I guess so
+options: sweet, treat, cheat
+answer: sweet
+
+[02:48.04] Mm, that's that me _____
+options: espresso, presto, testo
+answer: espresso

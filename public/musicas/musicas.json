@@ -1,0 +1,31 @@
+[
+    {
+      "nome": "Die With a Smile",
+      "slug": "IfTheWorldWasEnding",
+      "capa": "/musicas/Lady Gaga, Bruno Mars - Die With A Smile.jpg",
+      "audio": "/musicas/Lady Gaga, Bruno Mars - Die With A Smile.mp3",
+      "letra": "/musicas/Lady Gaga, Bruno Mars - Die With A Smile.txt"
+    },
+    {
+        "nome": "Espresso",
+        "slug": "IfTheWorldWasEnding",
+        "capa": "/musicas/Sabrina Carpenter - Espresso.jpg",
+        "audio": "/musicas/Sabrina Carpenter - Espresso.mp3",
+        "letra": "/musicas/Sabrina Carpenter - Espresso.txt"
+    },
+    {
+        "nome": "Mrs. Potato Head",
+        "slug": "IfTheWorldWasEnding",
+        "capa": "/musicas/Melanie Martinez - Mrs. Potato Head.jpg",
+        "audio": "/musicas/Melanie Martinez - Mrs. Potato Head.mp3",
+        "letra": "/musicas/Melanie Martinez - Mrs. Potato Head.txt"
+    },
+    {
+        "nome": "Ghost of You",
+        "slug": "IfTheWorldWasEnding",
+        "capa": "/musicas/Selena Gomez - Ghost of You.jpg",
+        "audio": "/musicas/Selena Gomez - Ghost of You.mp3",
+        "letra": "/musicas/Selena Gomez - Ghost of You.txt"
+    }
+  ]
+  
