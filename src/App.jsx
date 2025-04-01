@@ -165,7 +165,7 @@ export default function App() {
         <h1 className="text-2xl font-bold text-center">🎧 Quiz de Música</h1>
         {musicaSelecionada && (
           <button
-            className="text-blue-600 underline"
+            className="text-blue-600"
             onClick={() => {
               setMusicaSelecionada(false);
               setAudioUrl(null);
@@ -247,7 +247,7 @@ export default function App() {
                 {shuffledOptions.map((opt) => (
                   <button
                     key={opt}
-                    className={`p-2 border rounded transition-all duration-200 text-sm font-medium
+                    className={`px-4 py-2 rounded border shadow hover:shadow-md transition-all text-white font-semibold text-base
                       ${feedback === 'correct' && opt === lyrics[currentIndex].answer ? 'bg-green-500 text-white' : ''}
                       ${feedback === 'incorrect' && opt === selectedOption ? 'bg-red-500 text-white' : ''}
                       ${feedback !== 'correct' && feedback !== 'incorrect' ? 'bg-gray-100 hover:bg-gray-200' : ''}`}
@@ -257,13 +257,15 @@ export default function App() {
                     {opt}
                   </button>
                 ))}
-              </div>
+              </div >
+              <div className="mt-4 flex justify-center">
               <button
-                className="mt-4 px-3 py-1 text-sm bg-gray-200 rounded hover:bg-gray-300"
+                className="px-3 py-1 text-sm bg-gray-200 rounded hover:bg-gray-300 text-white"
                 onClick={replayTrecho}
               >
                 🔁 Ouvir trecho novamente
               </button>
+              </div>
             </div>
           )}
         </>
