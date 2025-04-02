@@ -27,12 +27,23 @@ export default function App() {
   const replayTimeoutRef = useRef(null);
 
   const avancarTrecho = () => {
+    const proximoIndex = currentIndex + 1;
+    if (proximoIndex >= lyrics.length) {
+      setQuizFinalizado(true);
+      setSelectedOption(null);
+      setFeedback(null);
+      setSegmentEnded(false);
+      setCurrentIndex(proximoIndex); // <- importante: isso ativa o useEffect corretamente
+      return;
+    }
+  
     setSelectedOption(null);
     setFeedback(null);
     setSegmentEnded(false);
-    setCurrentIndex((prev) => prev + 1);
+    setCurrentIndex(proximoIndex);
     audioRef.current?.play();
   };
+  
 
   useEffect(() => {
     fetch('/musicas/musicas.json')
@@ -74,11 +85,19 @@ export default function App() {
   }, [segmentEnded, feedback]);
 
   useEffect(() => {
-    if (currentIndex >= lyrics.length && lyrics.length > 0) {
+    const audio = audioRef.current;
+    if (
+      lyrics.length > 0 &&
+      currentIndex === lyrics.length - 1 &&
+      feedback === 'correct' &&
+      audio &&
+      audio.currentTime >= audio.duration
+    ) {
       setAudioStarted(false);
       setQuizFinalizado(true);
     }
-  }, [currentIndex, lyrics]);
+  }, [lyrics, currentIndex, feedback]);
+  
 
   const carregarLetra = (texto) => {
     const lines = texto.split('\n');
@@ -128,12 +147,25 @@ export default function App() {
 
   const handleOptionClick = (option) => {
     if (feedback === 'correct') return;
+  
     setSelectedOption(option);
     const isCorrect = option === lyrics[currentIndex].answer;
     setFeedback(isCorrect ? 'correct' : 'incorrect');
+  
     if (isCorrect) {
       setScore(score + 1);
-      if (segmentEnded) avancarTrecho();
+  
+      // ✅ Se for o último trecho, finalize o quiz
+      if (currentIndex === lyrics.length - 1) {
+        setQuizFinalizado(true);
+        setAudioStarted(false);
+        return;
+      }
+  
+      // ✅ Se o trecho já acabou (usuário clicou depois da música pausar)
+      if (segmentEnded) {
+        avancarTrecho();
+      }
     }
   };
 
@@ -163,30 +195,32 @@ export default function App() {
     <div className="p-6 space-y-6 max-w-4xl mx-auto">
       <div className="flex justify-between items-center">
         <h1 className="text-2xl font-bold text-center">🎧 Quiz de Música</h1>
-        {musicaSelecionada && (
-          <button
-            className="text-blue-600"
-            onClick={() => {
-              setMusicaSelecionada(false);
-              setAudioUrl(null);
-              setLyrics([]);
-              setAudioStarted(false);
-              setFeedback(null);
-              setSelectedOption(null);
-              setCurrentIndex(0);
-              setScore(0);
-              setQuizFinalizado(false);
-            }}
-          >
-            🔄 Escolher outra música
-          </button>
-        )}
       </div>
 
       {quizFinalizado && (
         <div className="p-4 text-center bg-green-100 border border-green-300 rounded">
           <h2 className="text-xl font-bold">✅ Quiz Finalizado!</h2>
           <p className="text-lg">Você acertou {score} de {lyrics.length} palavras.</p>
+          <button
+            className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+            onClick={() => {
+              setMusicaSelecionada(true);
+              setCurrentIndex(0);
+              setScore(0);
+              setSelectedOption(null);
+              setFeedback(null);
+              setSegmentEnded(false);
+              setQuizFinalizado(false);
+              setAudioStarted(true); // deixar isso por último para ativar o quiz corretamente
+            
+              if (audioRef.current) {
+                audioRef.current.currentTime = lyrics[0]?.time || 0;
+                audioRef.current.play();
+              }
+            }}
+          >
+            🔁 Recomeçar música
+          </button>
         </div>
       )}
 
@@ -229,8 +263,30 @@ export default function App() {
 
       {audioUrl && <audio ref={audioRef} src={audioUrl} />}
 
-      {musicaSelecionada && (
+      <div className="flex justify-between items-center">
+          {musicaSelecionada && (
+              <button
+                className="text-white bg-blue-950"
+                onClick={() => {
+                  setMusicaSelecionada(false);
+                  setAudioUrl(null);
+                  setLyrics([]);
+                  setAudioStarted(false);
+                  setFeedback(null);
+                  setSelectedOption(null);
+                  setCurrentIndex(0);
+                  setScore(0);
+                  setQuizFinalizado(false);
+                }}
+              >
+                🔄 Escolher outra música
+              </button>
+            )}
+        </div>
+
+        {musicaSelecionada && (
         <>
+          {!quizFinalizado && (
           <button
             onClick={startQuiz}
             disabled={audioStarted || !audioUrl || lyrics.length === 0}
@@ -238,6 +294,7 @@ export default function App() {
           >
             Começar Quiz
           </button>
+        )}
 
           {audioStarted && currentLyric && (
             <div className="border rounded p-4 bg-white shadow">
@@ -248,9 +305,9 @@ export default function App() {
                   <button
                     key={opt}
                     className={`px-4 py-2 rounded border shadow hover:shadow-md transition-all text-white font-semibold text-base
-                      ${feedback === 'correct' && opt === lyrics[currentIndex].answer ? 'bg-green-500 text-white' : ''}
-                      ${feedback === 'incorrect' && opt === selectedOption ? 'bg-red-500 text-white' : ''}
-                      ${feedback !== 'correct' && feedback !== 'incorrect' ? 'bg-gray-100 hover:bg-gray-200' : ''}`}
+                      ${feedback === 'correct' && opt === lyrics[currentIndex].answer ? 'bg-green-500' : ''}
+                      ${feedback === 'incorrect' && opt === selectedOption ? 'bg-red-500' : 'bg-blue-200'}
+                      ${feedback !== 'correct' && feedback !== 'incorrect' ? 'bg-blue-400 hover:bg-gray-200' : ''}`}
                     disabled={feedback === 'correct'}
                     onClick={() => handleOptionClick(opt)}
                   >
@@ -260,7 +317,7 @@ export default function App() {
               </div >
               <div className="mt-4 flex justify-center">
               <button
-                className="px-3 py-1 text-sm bg-gray-200 rounded hover:bg-gray-300 text-white"
+                className="px-3 py-1 text-sm bg-gray-500 rounded hover:bg-gray-300 text-white"
                 onClick={replayTrecho}
               >
                 🔁 Ouvir trecho novamente

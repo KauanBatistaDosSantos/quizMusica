@@ -8,24 +8,31 @@
     },
     {
         "nome": "Espresso",
-        "slug": "IfTheWorldWasEnding",
+        "slug": "Espresso",
         "capa": "/musicas/Sabrina Carpenter - Espresso.jpg",
         "audio": "/musicas/Sabrina Carpenter - Espresso.mp3",
         "letra": "/musicas/Sabrina Carpenter - Espresso.txt"
     },
     {
         "nome": "Mrs. Potato Head",
-        "slug": "IfTheWorldWasEnding",
+        "slug": "MrsPotatoHead",
         "capa": "/musicas/Melanie Martinez - Mrs. Potato Head.jpg",
         "audio": "/musicas/Melanie Martinez - Mrs. Potato Head.mp3",
         "letra": "/musicas/Melanie Martinez - Mrs. Potato Head.txt"
     },
     {
         "nome": "Ghost of You",
-        "slug": "IfTheWorldWasEnding",
+        "slug": "GhostOfYou",
         "capa": "/musicas/Selena Gomez - Ghost of You.jpg",
         "audio": "/musicas/Selena Gomez - Ghost of You.mp3",
         "letra": "/musicas/Selena Gomez - Ghost of You.txt"
+    },
+    {
+        "nome": "10",
+        "slug": "10",
+        "capa": "/musicas/10.jpg",
+        "audio": "/musicas/10.mp3",
+        "letra": "/musicas/10.txt"
     }
   ]
   

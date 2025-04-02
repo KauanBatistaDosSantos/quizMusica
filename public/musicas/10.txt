@@ -1,0 +1,11 @@
+[00:03.16]I, I just ________ up from a dream
+options: woke, walk, rock
+answer: woke
+
+[00:05.97]But you and I had to say ________
+options: goodbye, hi, lie
+answer: goodbye
+
+[00:08.41]And I don't know what it all ________
+options: means, leans, scenes
+answer: means
