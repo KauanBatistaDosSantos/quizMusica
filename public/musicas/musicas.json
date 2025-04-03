@@ -28,11 +28,11 @@
         "letra": "/musicas/Selena Gomez - Ghost of You.txt"
     },
     {
-        "nome": "10",
-        "slug": "10",
-        "capa": "/musicas/10.jpg",
-        "audio": "/musicas/10.mp3",
-        "letra": "/musicas/10.txt"
+        "nome": "Kendini Bana Bırak",
+        "slug": "KendiniBanaBırak",
+        "capa": "/musicas/Halil İbrahim - Kendini Bana Bırak.jpg",
+        "audio": "/musicas/Halil İbrahim - Kendini Bana Bırak.mp3",
+        "letra": "/musicas/Halil İbrahim - Kendini Bana Bırak.txt"
     }
   ]
   

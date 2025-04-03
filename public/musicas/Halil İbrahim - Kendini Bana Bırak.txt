@@ -1,0 +1,107 @@
+[00:13.64] Kendini bana _____
+options: bırak, kırak, sırak
+answer: bırak
+
+[00:31.67] _____
+options: Biliyorum, Duyuyorum, Görüyorum
+answer: Biliyorum
+
+[00:35.76] Senin de _____ bana bi' şeyler var
+options: içinde, elinde, dilinde
+answer: içinde
+
+[00:43.32] Olan oldu, saklanır mı o _____?
+options: duygular, kurgular, tutkular
+answer: duygular
+
+[00:50.82] Rahat bırak aşkını, aksın, o bize _____
+options: kâr, var, zar
+answer: kâr
+
+[00:58.59] Durma, aşkı _____
+options: yorma, korna, zorma
+answer: yorma
+
+[01:01.50] Kalbin razı, çok _____
+options: takılma, yakılma, sakılma
+answer: takılma
+
+[01:07.91] Kendini bana _____
+options: bırak, sırak, kırak
+answer: bırak
+
+[01:13.44] Of, kendini bana _____
+options: bırak, kırak, tırak
+answer: bırak
+
+[01:21.06] Of, kendini bana _____
+options: bırak, dırak, çırak
+answer: bırak
+
+[01:28.57] Of, kendini bana _____
+options: bırak, kırak, ırak
+answer: bırak
+
+[01:51.99] _____
+options: Biliyorum, Tanıyorum, Anlıyorum
+answer: Biliyorum
+
+[01:56.12] Seninle uyuyup uyanmak kural _____
+options: aşka, taşka, başka
+answer: aşka
+
+[02:03.98] Ne var ne yoksa yaktım, bakmam _____
+options: ardıma, yanıma, canıma
+answer: ardıma
+
+[02:11.48] Açılmış o kanatları bırak _____
+options: rüzgârıma, baharıma, kararıma
+answer: rüzgârıma
+
+[02:19.07] Durma, aşkı _____
+options: yorma, sorma, korna
+answer: yorma
+
+[02:22.14] Kalbin razı, çok _____
+options: takılma, yakılma, sakılma
+answer: takılma
+
+[02:28.54] Kendini bana _____
+options: bırak, kırak, çırak
+answer: bırak
+
+[02:34.05] Of, kendini bana _____
+options: bırak, sırak, darak
+answer: bırak
+
+[02:41.57] Of, kendini bana _____
+options: bırak, tırak, ırak
+answer: bırak
+
+[02:49.16] Of, kendini bana _____
+options: bırak, kırak, bırat
+answer: bırak
+
+[03:11.69] Durma, aşkı _____
+options: yorma, sorma, yazma
+answer: yorma
+
+[03:14.59] Kalbin razı, çok _____
+options: takılma, yakılma, sakılma
+answer: takılma
+
+[03:21.33] Kendini bana _____
+options: bırak, kırak, tırak
+answer: bırak
+
+[03:26.57] Of, kendini bana _____
+options: bırak, darak, şırak
+answer: bırak
+
+[03:34.00] Of, kendini bana _____
+options: bırak, sırak, tırak
+answer: bırak
+
+[03:41.57] Of, kendini bana _____
+options: bırak, kırak, dırak
+answer: bırak
